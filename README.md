@@ -1,16 +1,13 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there 👋 welcome to my Github! I like to write in Java Code that fits like a <s>glove<s></samp></h4>
 
-<!--
-**4thokage/4thokage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/YBwcj6HXQNHSgG9mIl/giphy.gif">
+</p>
+<p align="center">
+<img src="" alt="github stats"></br>
+<samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=4thokage.4thokage)
