@@ -4,7 +4,7 @@
   <img width="250" src="https://media.giphy.com/media/YBwcj6HXQNHSgG9mIl/giphy.gif">
 </p>
 <p align="center">
-<img src="" alt="github stats"></br>
+<img src="https://github.com/4thokage/4thokage/blob/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats"></br>
 <samp>
 Check out my repos ⬇️  
   </samp>
