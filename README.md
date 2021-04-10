@@ -9,14 +9,16 @@
     <img src="https://github.com/4thokage/4thokage/blob/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats">
     <pre>
     <!--START_SECTION:waka-->
-    ```text
-    JavaScript   4 hrs 29 mins   ██████████████░░░░░░░░░░░   55.55 % 
-    Other        44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-    Markdown     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-    HTML         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-    TypeScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-    ```
-    <!--END_SECTION:waka-->
+```text
+Week: 02 April, 2021 - 09 April, 2021
+
+JavaScript   4 hrs 29 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.55 % 
+Other        44 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.16 % 
+Markdown     38 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.90 % 
+HTML         32 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.77 % 
+TypeScript   31 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.47 % 
+```
+<!--END_SECTION:waka-->
     </pre>
     </div>
 </p>
