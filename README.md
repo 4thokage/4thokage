@@ -7,8 +7,8 @@
 <p align="center">
   <div>
     <img src="https://github.com/4thokage/4thokage/blob/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats">
-    <pre>
-    <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 ```text
 Week: 02 April, 2021 - 09 April, 2021
 
@@ -19,9 +19,7 @@ HTML         32 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 TypeScript   31 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.47 % 
 ```
 <!--END_SECTION:waka-->
-    </pre>
-    </div>
-</p>
 
+Check out my repos ⬇️  
 
 
