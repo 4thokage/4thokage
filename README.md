@@ -5,9 +5,11 @@
 </p>
 <p align="center">
 <img src="https://github.com/4thokage/4thokage/blob/main/profile-summary-card-output/github/0-profile-details.svg" alt="github stats"></br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <samp>
 Check out my repos ⬇️  
-  </samp>
+</samp>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=4thokage.4thokage)
