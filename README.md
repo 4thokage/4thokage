@@ -12,7 +12,7 @@
 📊 **Personal projects development**:
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
 YAML     3 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.27 % 
 Kotlin   2 hrs 12 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.79 % 
