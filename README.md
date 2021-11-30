@@ -12,7 +12,10 @@
 📊 **Personal projects development**:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 November, 2021 - 29 November, 2021
+
+Kotlin       1 hr 25 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.43 % 
+Git Config   12 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.40 % 
 ```
 <!--END_SECTION:waka-->
 
