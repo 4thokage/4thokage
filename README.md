@@ -5,25 +5,15 @@
   <img width="250" src="https://imgur.com/habJ7Va.gif">
 </p>
 
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=4thokage&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-📊 **Personal projects development**:
-<!--START_SECTION:waka-->
-```text
-Week: 06 February, 2022 - 12 February, 2022
-
-TypeScript   3 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.52 % 
-JSON         32 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.38 % 
-JavaScript   7 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.95 % 
-CSS          4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.66 % 
-Other        3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.49 % 
-```
-<!--END_SECTION:waka-->
 
 
+<p align="center"> 📈 GitHub Stats: </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=4thokage&show_icons=true&theme=tokyonight" /></p>
 
-Check out my repos ⬇️  ![](https://visitor-badge.glitch.me/badge?page_id=4thokage.4thokage)
+<p align="center"> Personal projects development: </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsr&theme=tokyonight" /></p>
+
+
+<p align="center">⬇️ Projects I loved working on ⬇️ </p>
 
 
