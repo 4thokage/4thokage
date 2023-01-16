@@ -6,10 +6,6 @@
 </p>
 
 
-
-<p align="center"> 📈 GitHub Stats: </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=4thokage&show_icons=true&theme=tokyonight" /></p>
-
 <p align="center"> Personal projects development: </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsr&theme=tokyonight" /></p>
 
